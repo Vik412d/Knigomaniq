@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\STUDENTS-STEM-4\\Desktop\\12d_V\\Knigomaniq\\Knigomaniq.csproj": {}
+    "C:\\Users\\Viki\\source\\repos\\Knigomaniq\\Knigomaniq.csproj": {}
   },
   "projects": {
-    "C:\\Users\\STUDENTS-STEM-4\\Desktop\\12d_V\\Knigomaniq\\Knigomaniq.csproj": {
+    "C:\\Users\\Viki\\source\\repos\\Knigomaniq\\Knigomaniq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\STUDENTS-STEM-4\\Desktop\\12d_V\\Knigomaniq\\Knigomaniq.csproj",
+        "projectUniqueName": "C:\\Users\\Viki\\source\\repos\\Knigomaniq\\Knigomaniq.csproj",
         "projectName": "Knigomaniq",
-        "projectPath": "C:\\Users\\STUDENTS-STEM-4\\Desktop\\12d_V\\Knigomaniq\\Knigomaniq.csproj",
-        "packagesPath": "C:\\Users\\STUDENTS-STEM-4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\STUDENTS-STEM-4\\Desktop\\12d_V\\Knigomaniq\\obj\\",
+        "projectPath": "C:\\Users\\Viki\\source\\repos\\Knigomaniq\\Knigomaniq.csproj",
+        "packagesPath": "C:\\Users\\Viki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Viki\\source\\repos\\Knigomaniq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\STUDENTS-STEM-4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Viki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,8 +73,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -86,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

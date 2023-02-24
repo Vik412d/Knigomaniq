@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Security.Cryptography.X509Certificates;
 
 namespace Knigomaniq.Models
@@ -17,7 +18,9 @@ namespace Knigomaniq.Models
         public string Stoke { get; set; }
         public string ShortExplenation { get; set; }
         public string Picture { get; set; }
-        public int SinglePrice { get; set; }
+
+        [Column(TypeName = "decimal(10, 2)")]
+        public decimal SinglePrice { get; set; }
         public int DateOFBookInrolled { get; set; }
         public ICollection<Shopping> Shoppings { get; set; }
     }
